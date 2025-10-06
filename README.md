@@ -45,11 +45,11 @@ Antes de começar, você precisa ter instalado na sua máquina:
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-repo.git
+git clone https://github.com/mathpimentel/App-comprar.git
 ```
 Entre na pasta do projeto:
 ```bash
-cd nome-repo
+cd App-comprar
 ```
 Instale as dependências:
 ```bash
